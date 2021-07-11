@@ -4,6 +4,7 @@
 - [Vishal Chopra](https://github.com/pythonvishal)
 - [Paritosh Marathe](https://github.com/paritosh-marathe)
 - [AP](https://github.com/AungPhyoMM)
+- [Bairavan D](https://github.com/pairavanvvl)
 - [mrranger](https://github.com/mrranger)
 - [Guli]
 - [Chinthakindi Tarun]
